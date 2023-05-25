@@ -1,0 +1,3 @@
+alphametics.solve : Text -> Optional [(Char, Nat)]
+alphametics.solve input = todo "implement solve"
+

@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "dreig"
+  ],
+  "files": {
+    "solution": [
+      "alphametics.u"
+    ],
+    "test": [
+      "alphametics.test.u"
+    ],
+    "example": [
+      ".meta/examples/alphametics.example.u"
+    ]
+  },
+  "blurb": "Write a function to solve alphametics puzzles."
+}
